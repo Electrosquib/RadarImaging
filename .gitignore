@@ -4,11 +4,11 @@ __pycache__/
 .DS_Store
 .ipynb_checkpoints/
 
-*.wav
-*.mp4
-*.mov
-*.avi
-*.mkv
+# *.wav
+# *.mp4
+# *.mov
+# *.avi
+# *.mkv
 
 *.npy
 *.npz
